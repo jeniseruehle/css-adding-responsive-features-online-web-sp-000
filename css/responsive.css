@@ -62,7 +62,14 @@
 }
 
 @media only screen and (max-width: 700px) {
+  #navbar nav a {
+    display: none;
+  }
   
+  #navbar nav a.menu-icon {
+    display: block;
+    float: right;
+  }
  
  
   #social a {
