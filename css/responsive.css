@@ -24,3 +24,7 @@
     -ms-column-count: 2;
   }
 }
+
+@media only screen and (max-width: 750px) {
+  
+}
