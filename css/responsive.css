@@ -3,5 +3,7 @@
 }
 
 @media only screen and (max-width: 1108px) {
-  body
+  .wrapper {
+    width: 90%;
+  }
 }
