@@ -74,4 +74,7 @@
   #social a {
     display: inline-block;
   }
+  #logo {
+    padding: 60px;
+  }
 }
